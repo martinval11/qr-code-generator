@@ -6,7 +6,7 @@ export function Footer() {
       Made by{' '}
       <a
         className={styles.link}
-        href="https://github.com/martinval11"
+        href="https://github.com/martinval11/qr-code-generator"
         target="_blank"
         rel="noopener noreferrer"
       >
